@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=8c05fa&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&redirect=true)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublespoiler&theme=dracula&hide_border=true&layout=compact" />
