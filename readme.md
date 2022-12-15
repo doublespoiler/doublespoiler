@@ -1,52 +1,44 @@
-<div align="center">
+
 
 # Hi, I'm Skylan
 
+
+
 ## I'm a full-stack developer and amateur game developer
 
-IT Technician turned Software Developer
+* IT Technician turned Software Developer
+* 🌱 Attending Epicodus for Web/App full stack development
+* I'm passionate about:
+  * 🎓 Education Software
+  * 🌏 Geographic Accessibility
+  * 📝 Game Design
+* Interests:
+  * 🎮 Video Games
+  * 🎴 Anime
+  * 🤖 Gunpla
+  * 🥢 Food
+  * 🤼‍♀️ Professional Wrestling
 
-🌱 Attending Epicodus for Web/App full stack development
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](http://linkedin.com/in/skylanlew) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:skylanslew@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=flat)](http://twitter.com/sslew_)
-
-<div style="display: flex;">
-
-  <div>
-  I'm passionate about:
-
-  🎓 Education Software
-
-  🌏 Geographic Accessibility
-
-  📝 Game Design
-  </div>
-  <div>
-  Interests:
-
-    🎮 Video Games
-
-    🎴 Anime
-
-    🤖 Gunpla
-
-  </div>
-  </div>
-
-## Key Technologies
+## Tools/Technologies
+<div align="center">
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat) 
 
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white&style=flat) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&style=flat) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black&style=flat) 
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&style=flat)
+</div>
 
-## Contact
+<hr />
 
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doublespoiler&theme=dracula&hide_border=true&show_icons=true" />
-</a> 
+</a>  -->
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=8c05fa&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublespoiler&theme=dracula&hide_border=true&layout=compact" />
