@@ -10,33 +10,27 @@ IT Technician turned Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](http://linkedin.com/in/skylanlew) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:skylanslew@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=flat)](http://twitter.com/sslew_)
 
-<div align="center">
+<div style="display: flex;">
 
+  <div>
+  I'm passionate about:
 
-<table>
-<tr>
-<td>
+  🎓 Education Software
 
-I'm passionate about:
+  🌏 Geographic Accessibility
 
-🎓 Education Software
+  📝 Game Design
+  </div>
+  <div>
+  Interests:
 
-🌏 Geographic Accessibility
+    🎮 Video Games
 
-📝 Game Design</td>
-<td>Interests:
+    🎴 Anime
 
-  🎮 Video Games
+    🤖 Gunpla
 
-  🎴 Anime
-
-  🤖 Gunpla
-</td>
-</tr>
-</table>
-</div>
-<div align="right">
-
+  </div>
   </div>
 
 ## Key Technologies
