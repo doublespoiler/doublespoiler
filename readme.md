@@ -13,7 +13,7 @@
 ## About me
 
 * IT Technician turned Software Developer
-* 🌱 Attending Epicodus for Web/App full stack development
+* 🌱 Software Development Intern @ Opine Education
 * I'm passionate about:
   * 🎓 Education Software
   * 🌏 Geographic Accessibility
