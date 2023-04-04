@@ -69,4 +69,4 @@ typing svg: https://github.com/DenverCoder1/readme-typing-svg
 
 badges: https://github.com/Ileriayo/markdown-badges
 
-spotify status: https://github.com/kittinan/spotify-github-profile
+[spotify status](https://github.com/kittinan/spotify-github-profile): 
