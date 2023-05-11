@@ -53,7 +53,47 @@
 <div align="center">
  
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2039%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Phoenix
+
+💬 Programming Languages: 
+C#                       5 hrs 15 mins       ████████████████████░░░░░   79.20 % 
+Svelte                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🐱‍💻 Projects: 
+mptest                   3 hrs 30 mins       █████████████░░░░░░░░░░░░   52.94 % 
+Winterbolt FPS           1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+super-auto-chess-sv      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+super-auto-chess-client  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+💻 Operating System: 
+Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   40.51 % 
+C#                       26 repos            ████████░░░░░░░░░░░░░░░░░   32.91 % 
+HTML                     19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+```
+
+
+
+
+ Last Updated on 2023/05/11 UTC
+<!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&redirect=true)
 
