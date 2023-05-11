@@ -108,4 +108,4 @@ C                        1 repo              ░░░░░░░░░░░�
 
 <hr />
 
-[typing svg](https://github.com/DenverCoder1/readme-typing-svg) | [badges](https://github.com/Ileriayo/markdown-badges) | [spotify status](https://github.com/kittinan/spotify-github-profile) | [Waka Stats](https://github.com/anmol098/waka-readme-stats)
+[typing svg](https://github.com/DenverCoder1/readme-typing-svg) | [badges](https://github.com/Ileriayo/markdown-badges) | [spotify status](https://github.com/kittinan/spotify-github-profile) | [waka stats](https://github.com/anmol098/waka-readme-stats)
