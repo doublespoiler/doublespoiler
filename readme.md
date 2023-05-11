@@ -51,6 +51,8 @@
 </a>  -->
 
 <div align="center">
+ 
+ <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&redirect=true)
 
