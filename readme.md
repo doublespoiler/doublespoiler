@@ -53,7 +53,7 @@
 <div align="center">
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -63,20 +63,17 @@
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-C#                       5 hrs 15 mins       ████████████████████░░░░░   79.20 % 
-Svelte                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C#                       6 hrs 59 mins       █████████████████████░░░░   83.53 % 
+Svelte                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-mptest                   3 hrs 30 mins       █████████████░░░░░░░░░░░░   52.94 % 
-Winterbolt FPS           1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-super-auto-chess-sv      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-super-auto-chess-client  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
+mptest                   5 hrs 15 mins       ████████████████░░░░░░░░░   62.74 % 
+Winterbolt FPS           1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+super-auto-chess-sv      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+super-auto-chess-client  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +89,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2023/05/11 UTC
+ Last Updated on 2023/05/14 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rv0clnet2uqwj1zhy4am4z178&redirect=true)
